@@ -1,3 +1,16 @@
-OPTION PRICING IN THE BINOMIAL MODEL
+# Binomial Option Pricing 📈
 
-This simple notebook defines a function computing put/call european/american option prices in the binomial model
+This repository contains a Jupyter Notebook that implements the **binomial model** for pricing vanilla **call and put options**.
+
+## Features
+- Implements the **Binomial Pricing Model** for European options.
+- Supports both **call and put options**.
+- Provides step-by-step explanations and code comments.
+- Visualizes price evolution over time.
+
+## Installation ⚙️
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/binomial-option-pricing.git
+2. Download the vanilla_option.ipynb notebook
+3. Run the notebook
