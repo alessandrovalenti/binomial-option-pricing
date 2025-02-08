@@ -11,6 +11,6 @@ This repository contains a Jupyter Notebook that implements the **binomial model
 ## Installation ⚙️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/binomial-option-pricing.git
+   git clone https://github.com/alessandrovalenti/binomial-option-pricing.git
 2. Download the vanilla_option.ipynb notebook
 3. Run the notebook
