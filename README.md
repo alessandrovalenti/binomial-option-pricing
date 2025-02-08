@@ -2,6 +2,8 @@
 
 This repository contains a Jupyter Notebook that implements the **binomial model** for pricing vanilla **call and put options**.
 
+The project is intended for didactical purposes.
+
 ## Features
 - Implements the **Binomial Pricing Model** for European options.
 - Supports both vanilla **call and put options**.
