@@ -1,4 +1,4 @@
-# Binomial Option Pricing 📈
+# Binomial Option Pricing 
 
 This repository contains a Jupyter Notebook that implements the **binomial model** for pricing vanilla **call and put options**.
 
